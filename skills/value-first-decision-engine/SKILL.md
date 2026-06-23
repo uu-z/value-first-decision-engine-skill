@@ -14,6 +14,7 @@ Default goals:
 - judge whether it is worth doing
 - prioritize by value versus cost
 - reduce unnecessary complexity
+- surface key insight and future implications
 - recommend a path, not just list options
 
 For the full framework and model table, see [references/decision-framework.md](references/decision-framework.md).
@@ -41,7 +42,10 @@ For the full framework and model table, see [references/decision-framework.md](r
    - inversion for failure modes
    - Bayesian thinking for updating beliefs from new evidence
    - incentives, opportunity cost, margin of safety, and via negativa when relevant
-6. Recommend one path and explain why.
+6. For strategic decisions, add one short pass:
+   - insight: what important truth, hidden constraint, or misread signal matters most?
+   - foresight: if this path continues, what becomes true later?
+7. Recommend one path and explain why.
 
 ## Model Routing
 
@@ -52,6 +56,8 @@ For the full framework and model table, see [references/decision-framework.md](r
 - Evolving evidence: use base rates and Bayesian updates.
 - People-dependent outcomes: use incentives.
 - Overloaded scope: use opportunity cost and via negativa.
+- Need the hidden variable: add an insight pass.
+- Need the future shape of consequences: add a foresight pass.
 
 ## Output Rules
 
@@ -60,6 +66,7 @@ For the full framework and model table, see [references/decision-framework.md](r
 - Distinguish facts, assumptions, priors, and updated beliefs.
 - Expand depth only when complexity or stakes justify it.
 - If a request is low-value and high-cost, say so clearly.
+- Use insight and foresight only when they materially improve the recommendation.
 
 ## Output Shape
 
@@ -70,9 +77,11 @@ For simple tasks:
 
 For complex tasks:
 - `意图推断`
+- `关键洞察`
 - `角色地图`
 - `方案对比`
 - `模型校准`
+- `未来推演`
 - `执行路径`
 - `反脆弱设计`
 - `决策建议`

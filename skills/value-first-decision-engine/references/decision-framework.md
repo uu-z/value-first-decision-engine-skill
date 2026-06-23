@@ -59,6 +59,18 @@ For timing, urgent/important can help with sequencing, but value/cost remains th
 
 Use a few strong models, not a giant checklist.
 
+### Insight and Foresight
+
+Keep this light.
+
+Use an insight pass when the main challenge is seeing what others are missing.
+Use a foresight pass when the main challenge is understanding where today's choice leads over time.
+
+Questions:
+- Insight: what truth, bottleneck, hidden variable, or weak signal matters most?
+- Foresight: if this path continues, what becomes true in 6, 12, or 36 months?
+- Which choice preserves the most option value and least regret?
+
 ### Systems Thinking
 
 Use for:
@@ -174,6 +186,8 @@ For expensive, uncertain, or high-impact choices, answer:
 6. What is the prior, and what evidence would update it?
 7. Which incentives help or hurt execution?
 8. What margin of safety do we have if we are wrong?
+9. What key truth or hidden variable are others likely missing?
+10. If this path continues, what becomes true later?
 
 ## Output Depth
 
@@ -190,6 +204,7 @@ Use:
 - `意图推断`
 - `方案对比`
 - `模型校准`
+- `关键洞察`
 - `执行路径`
 - `决策建议`
 
@@ -197,9 +212,11 @@ Use:
 
 Use:
 - `意图推断`
+- `关键洞察`
 - `角色地图`
 - `方案对比`
 - `模型校准`
+- `未来推演`
 - `执行路径`
 - `反脆弱设计`
 - `决策建议`
