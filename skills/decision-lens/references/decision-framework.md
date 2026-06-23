@@ -71,6 +71,18 @@ Questions:
 - Foresight: if this path continues, what becomes true in 6, 12, or 36 months?
 - Which choice preserves the most option value and least regret?
 
+### Leverage Lens
+
+Do not confuse volume with impact.
+
+The goal is leverage: the smallest move that creates the biggest meaningful change.
+
+Questions:
+- Where is the bottleneck?
+- What hidden asymmetry or wedge creates an opening?
+- What one decision makes many later decisions easier?
+- What small move changes system behavior, not just local output?
+
 ### Systems Thinking
 
 Use for:
@@ -188,6 +200,7 @@ For expensive, uncertain, or high-impact choices, answer:
 8. What margin of safety do we have if we are wrong?
 9. What key truth or hidden variable are others likely missing?
 10. If this path continues, what becomes true later?
+11. What leverage point is strong enough to materially improve the outcome?
 
 ## Output Depth
 
@@ -205,6 +218,7 @@ Use:
 - `方案对比`
 - `模型校准`
 - `关键洞察`
+- `杠杆点`
 - `执行路径`
 - `决策建议`
 
@@ -213,6 +227,7 @@ Use:
 Use:
 - `意图推断`
 - `关键洞察`
+- `杠杆点`
 - `角色地图`
 - `方案对比`
 - `模型校准`

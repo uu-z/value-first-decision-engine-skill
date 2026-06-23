@@ -22,6 +22,10 @@ This skill should feel like snow in winter, not icing on cake:
 - most useful when simple execution is not the bottleneck
 - least useful when the task is already obvious and low-risk
 
+Its best output is leverage:
+- find the move that creates outsized change
+- remove bottlenecks, exploit asymmetry, or improve option value
+
 For the full framework and model table, see [references/decision-framework.md](references/decision-framework.md).
 
 ## Workflow
@@ -50,6 +54,7 @@ For the full framework and model table, see [references/decision-framework.md](r
 6. For strategic decisions, add one short pass:
    - insight: what important truth, hidden constraint, or misread signal matters most?
    - foresight: if this path continues, what becomes true later?
+   - leverage: what smallest move creates the biggest shift?
 7. Recommend one path and explain why.
 
 ## Model Routing
@@ -63,6 +68,7 @@ For the full framework and model table, see [references/decision-framework.md](r
 - Overloaded scope: use opportunity cost and via negativa.
 - Need the hidden variable: add an insight pass.
 - Need the future shape of consequences: add a foresight pass.
+- Need a small move with outsized impact: add a leverage pass.
 
 ## Output Rules
 
@@ -72,6 +78,7 @@ For the full framework and model table, see [references/decision-framework.md](r
 - Expand depth only when complexity or stakes justify it.
 - If a request is low-value and high-cost, say so clearly.
 - Use insight and foresight only when they materially improve the recommendation.
+- Prefer leverage over volume: smaller move, larger effect.
 
 ## Output Shape
 
@@ -83,6 +90,7 @@ For simple tasks:
 For complex tasks:
 - `意图推断`
 - `关键洞察`
+- `杠杆点`
 - `角色地图`
 - `方案对比`
 - `模型校准`

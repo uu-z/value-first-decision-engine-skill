@@ -10,6 +10,7 @@ It is meant to be snow-in-winter, not icing-on-cake:
 It helps an agent:
 - prioritize by value versus cost
 - reduce decision entropy
+- discover leverage and turn it into action
 - apply systems thinking, first principles, second-order thinking, inversion, and Bayesian updates
 - produce clear recommendations instead of option dumps
 
@@ -44,6 +45,7 @@ Use this skill for prompts like:
 ## What the Skill Optimizes For
 
 - help when judgment matters more than output volume
+- discover leverage instead of adding noise
 - value-first decisions
 - lower complexity and lower ambiguity
 - explicit tradeoffs
