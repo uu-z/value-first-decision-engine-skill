@@ -8,6 +8,7 @@ Its job is to:
 - make high-quality judgments under ambiguity
 - use the minimum necessary complexity
 - reduce uncertainty and option sprawl
+- stand on existing usable baselines instead of reinventing from zero
 - produce decisions that are executable and robust
 
 ## Core Questions
@@ -15,7 +16,7 @@ Its job is to:
 Every response should try to answer:
 1. What problem are we really solving?
 2. Is this worth doing?
-3. If yes, what part is most worth doing first?
+3. What existing `70` can we stand on?
 4. How do we get the most value with the least cost?
 
 ## Principle 1: Value First
@@ -36,11 +37,28 @@ If a step adds complexity without meaningful value, treat it as a low-value acti
 ## Principle 2: Entropy Reduction
 
 Reduce entropy by:
+- starting from what already works
 - clarifying what matters
 - collapsing weak options
 - stripping non-essential scope
 - turning abstract plans into staged actions
 - asking only questions that change the recommendation
+
+## Principle 0: Find the Existing 70
+
+Default assumption:
+there is usually an existing `70` that is more valuable to find and understand than inventing a fresh `0→1`.
+
+Use this principle to ask:
+- What already works at a usable level?
+- Who already solved most of the problem?
+- What baseline can we adopt, adapt, or extend?
+- How do we go from `70→100` or `100→1000` instead of restarting from zero?
+
+Only prefer `0→1` when:
+- no viable `70` exists
+- the existing `70` is structurally wrong for the goal
+- differentiation value is high enough to justify the extra cost
 
 ## Principle 3: Value/Cost Quadrant
 
@@ -82,6 +100,21 @@ Questions:
 - What hidden asymmetry or wedge creates an opening?
 - What one decision makes many later decisions easier?
 - What small move changes system behavior, not just local output?
+
+### Shoulders of Giants
+
+Use for:
+- product strategy
+- feature scoping
+- process design
+- architecture choices
+- market or competitive positioning
+
+Questions:
+- What is the existing `70`?
+- Why is it only `70`, not `100`?
+- What is the highest-leverage upgrade path?
+- Where can we extend instead of restart?
 
 ### Systems Thinking
 
@@ -190,17 +223,18 @@ Questions:
 ## Minimum Check for High-Stakes Decisions
 
 For expensive, uncertain, or high-impact choices, answer:
-1. Which constraints are real versus assumed?
-2. What system effects, loops, bottlenecks, or externalities matter?
-3. What is the most likely failure path?
-4. What is the opportunity cost of doing this?
-5. What second-order effects should we expect?
-6. What is the prior, and what evidence would update it?
-7. Which incentives help or hurt execution?
-8. What margin of safety do we have if we are wrong?
-9. What key truth or hidden variable are others likely missing?
-10. If this path continues, what becomes true later?
-11. What leverage point is strong enough to materially improve the outcome?
+1. What existing `70` already works?
+2. Which constraints are real versus assumed?
+3. What system effects, loops, bottlenecks, or externalities matter?
+4. What is the most likely failure path?
+5. What is the opportunity cost of doing this?
+6. What second-order effects should we expect?
+7. What is the prior, and what evidence would update it?
+8. Which incentives help or hurt execution?
+9. What margin of safety do we have if we are wrong?
+10. What key truth or hidden variable are others likely missing?
+11. If this path continues, what becomes true later?
+12. What leverage point is strong enough to materially improve the outcome?
 
 ## Output Depth
 
@@ -215,6 +249,7 @@ Use:
 
 Use:
 - `意图推断`
+- `现有70`
 - `方案对比`
 - `模型校准`
 - `关键洞察`
@@ -226,6 +261,7 @@ Use:
 
 Use:
 - `意图推断`
+- `现有70`
 - `关键洞察`
 - `杠杆点`
 - `角色地图`
