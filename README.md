@@ -1,6 +1,11 @@
 # Decision Lens Skill
 
-A Codex skill for high-fidelity decision making under ambiguity.
+A Codex skill for high-stakes decision making under ambiguity.
+
+It is meant to be snow-in-winter, not icing-on-cake:
+- most useful when the choice is hard
+- the downside of being wrong is real
+- the path is unclear and tradeoffs matter
 
 It helps an agent:
 - prioritize by value versus cost
@@ -38,6 +43,7 @@ Use this skill for prompts like:
 
 ## What the Skill Optimizes For
 
+- help when judgment matters more than output volume
 - value-first decisions
 - lower complexity and lower ambiguity
 - explicit tradeoffs

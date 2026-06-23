@@ -1,13 +1,13 @@
 ---
 name: decision-lens
-description: Applies a value-first decision workflow using value/cost prioritization and key thinking models. Use when the user needs strategy, prioritization, tradeoff analysis, or asks whether something is worth doing.
+description: Applies a value-first decision workflow for hard, high-stakes choices using value/cost prioritization and key thinking models. Use when the user needs strategy, prioritization, tradeoff analysis, or asks whether something is worth doing.
 ---
 
 # Decision Lens
 
 ## Quick Start
 
-Use this skill when the user needs high-quality judgment under ambiguity, not just execution.
+Use this skill when the user needs high-quality judgment under ambiguity, especially when the decision is hard, high-stakes, or expensive to get wrong.
 
 Default goals:
 - find the real problem
@@ -16,6 +16,11 @@ Default goals:
 - reduce unnecessary complexity
 - surface key insight and future implications
 - recommend a path, not just list options
+
+This skill should feel like snow in winter, not icing on cake:
+- most useful when stakes are real
+- most useful when simple execution is not the bottleneck
+- least useful when the task is already obvious and low-risk
 
 For the full framework and model table, see [references/decision-framework.md](references/decision-framework.md).
 
