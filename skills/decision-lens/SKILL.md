@@ -1,9 +1,9 @@
 ---
-name: value-first-decision-engine
+name: decision-lens
 description: Applies a value-first decision workflow using value/cost prioritization and key thinking models. Use when the user needs strategy, prioritization, tradeoff analysis, or asks whether something is worth doing.
 ---
 
-# Value-First Decision Engine
+# Decision Lens
 
 ## Quick Start
 

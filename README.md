@@ -1,4 +1,4 @@
-# Value-First Decision Engine Skill
+# Decision Lens Skill
 
 A Codex skill for high-fidelity decision making under ambiguity.
 
@@ -12,7 +12,7 @@ It helps an agent:
 
 ```text
 skills/
-  value-first-decision-engine/
+  decision-lens/
     SKILL.md
     references/
       decision-framework.md
@@ -20,11 +20,11 @@ skills/
 
 ## Install
 
-Copy or symlink `skills/value-first-decision-engine` into your Codex skills directory, for example:
+Copy or symlink `skills/decision-lens` into your Codex skills directory, for example:
 
 ```bash
 mkdir -p ~/.codex/skills
-cp -R skills/value-first-decision-engine ~/.codex/skills/
+cp -R skills/decision-lens ~/.codex/skills/
 ```
 
 ## Trigger Examples
